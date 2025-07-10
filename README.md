@@ -1,0 +1,1 @@
+# Auto-Deploy-to-Kubernetes--After-Docker-Push
